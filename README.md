@@ -1,0 +1,2 @@
+# -FUTURE-CITY-Real-Time-Urban-Development-Forecasting-and-Property-Investment-Intelligence-System-
+FutureCity is a full-stack AI-powered real estate platform built with Java Spring Boot, React.js, and Python FastAPI. It predicts future property price growth using XGBoost, LSTM, GIS mapping, and infrastructure analytics. Features include JWT security, Kafka alerts, Redis caching, PostGIS heatmaps, and microservices architecture.
