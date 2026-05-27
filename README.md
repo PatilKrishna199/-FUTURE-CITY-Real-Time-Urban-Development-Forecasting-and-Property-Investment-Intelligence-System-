@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f9f8ba78-813c-4814-bb40-9cc5049ba62f" />
 # FutureCity - Real Time Urban Development Forecasting and Property Investment Intelligence System 
 
 ---
